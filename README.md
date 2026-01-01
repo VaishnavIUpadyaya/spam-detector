@@ -16,13 +16,8 @@ A real-time spam message detector using Python ML (Naive Bayes) in Flask and a N
 
 1. Install dependencies:
    pip install pandas scikit-learn flask flask-cors
-
-markdown
-Copy code 2. Run Flask:
+2. Run Flask:
 python app.py
-
-markdown
-Copy code
 
 - Flask runs at http://127.0.0.1:5000
 
@@ -31,13 +26,8 @@ Copy code
 1. Install dependencies:
    npm install
    npm install framer-motion
-
-markdown
-Copy code 2. Run frontend:
+2. Run frontend:
 npm run dev
-
-markdown
-Copy code
 
 - Next.js runs at http://localhost:3000
 
